@@ -40,3 +40,10 @@ Your task is to examine the data to help the campaign understand the determinant
 Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide your model specification, explain the limitations of your analysis, and your policy suggestions. 
 
 
+## 2. Crime Statistics 
+
+
+
+## 3. Sentiment Analysis 
+
+
