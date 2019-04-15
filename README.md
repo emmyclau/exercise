@@ -12,7 +12,7 @@ This exercise consists of 3 parts:
 You are given a dataset of crime statistics for a selection of counties, contained in the file crime.csv.
 Your task is to examine the data to help the campaign understand the determinants of crime and to generate policy suggestions that are applicable to local government.
 
-|variables | label  |
+|variable | label  |
 |----------|--------|
 |county|county identifier|
 |year|1988|
