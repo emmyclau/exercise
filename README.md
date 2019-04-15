@@ -1,9 +1,9 @@
 # Take Home Exercise 
 
 This exercise consists of 3 parts:
-1. ##Statistics##: Use crime datasets to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. ##Machine Learning##:
-3. ##Natural Language Processing##:
+1. Statistics: Use crime datasets to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
+2. Machine Learning:
+3. Natural Language Processing:
 
 
 This exercise is meant to understand your approach and the framework you use to tackle these data science problems.  
