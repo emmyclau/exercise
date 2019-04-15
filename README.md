@@ -1,9 +1,12 @@
 # Take Home Exercise 
 
 This exercise consists of 3 parts:
-1. Use crime datasets to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. 
+1. #Statistics#: Use crime datasets to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
+2. #Machine Learning#:
+3. #Natural Language Processing#:
 
+
+This exercise is meant to understand your approach and the framework you use to tackle these data science problems.  
 
 
 
@@ -33,5 +36,6 @@ Your task is to examine the data to help the campaign understand the determinant
 |wagemfg |weekly wage, manufacturing|
 |wageloc |weekly wage, local government employees|
 
-Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide details of your model, explain the limitations of your analysis, and your policy suggestions. 
+Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide your model specification, explain the limitations of your analysis, and your policy suggestions. 
+
 
