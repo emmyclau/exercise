@@ -12,7 +12,7 @@ This exercise consists of 2 parts:
 
 ## 1. Statistics
 
-The file crime.csv is a dataset of crime statistics for a selection of counties.  Your task is to examine the data to help a campaign understand the determinants of crime and generate policy suggestions to local government to reduce crime.
+The file ```crime.csv``` is a dataset of crime statistics for a selection of counties.  Your task is to examine the data to help a campaign understand the determinants of crime and generate policy suggestions to local government to reduce crime.
 
 |variable | label  |
 |----------|--------|
@@ -40,13 +40,13 @@ Please prepare an analysis investigating the determinants of crime and addressin
 
 ## 2. Machine Learning
 
-The news.csv is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
+The ```news.csv``` is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
 
 
 
 ## 3. Text Analysis (Bonus)
 
-The review.csv is a dataset of user reviews for a selection of dentists.  Your task is to identify the main topics that users usually mention in the dental reviews.  It is similar to hotel reviews where users usually mention topics such as, "Room", "Location", "Price", "Service" of their hotel experience. 
+The ```review.csv``` is a dataset of user reviews for a selection of dentists.  Your task is to identify the main topics that users usually mention in the dental reviews.  It is similar to hotel reviews where users usually mention topics such as, "Room", "Location", "Price", "Service" of their hotel experience. 
 
 Please provide the model source code and brief comment of the source code.
 
