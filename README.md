@@ -1,8 +1,9 @@
-# Take Home Exercise 
+# Data Scientist Take Home Exercise 
 
 This exercise consists of 2 parts:
 1. Statistics: Use crime dataset to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. Machine Learning: Use review dataset to 
+2. Machine Learning: 
+3. Text Analysis (Bonus): Use review dataset to understand topics that users mention in dental reviews. 
 
 **NOTE**
 1. This exercise is meant to understand the approach and the logic than the actual performance of your models.  
@@ -34,13 +35,19 @@ The file crime.csv is a dataset of crime statistics for a selection of counties.
 |wagemfg |weekly wage, manufacturing|
 |wageloc |weekly wage, local government employees|
 
-Prepare an analysis investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide the data analysis, model specifications and your policy suggestions. 
+Please prepare an analysis investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide the data analysis, model specifications and your policy suggestions. 
 
 
 ## 2. Machine Learning
 
-The review.csv is a dataset of user reviews for a selection of dentists.  Your task is to identify the main topics that users usually mention in the dental reviews.  It is similar to hotel reviews where users usually mention "Room", "Location", "Price", "Service" about their hotel experience. 
+The news.csv is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
 
-Please provide the  
+
+
+## 3. Text Analysis (Bonus)
+
+The review.csv is a dataset of user reviews for a selection of dentists.  Your task is to identify the main topics that users usually mention in the dental reviews.  It is similar to hotel reviews where users usually mention topics such as, "Room", "Location", "Price", "Service" of their hotel experience. 
+
+Please provide the model source code and brief comment of the source code.
 
 
