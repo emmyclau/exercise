@@ -27,14 +27,12 @@ Your task is to examine the data to help the campaign understand the determinant
 |west|=1 if in western part of the state|
 |central |=1 if in central part of the state|
 |urban |=1 if in Standard Metropolitan Statistical Area| 
-|pctmin |proportion that is minority or nonwhite|
 |wagecon |weekly wage, construction|
 |wagetrd |weekly wage, wholesle, retail trade|
 |wageser |weekly wage, service industry|
 |wagemfg |weekly wage, manufacturing|
 |wageloc |weekly wage, local government employees|
-|mix |ratio of face to face/all other crimes|
 |ymale|proportion of county males between the ages of 15 and 24|
 
-Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide specification of your model, explain the limitations of your analysis, and your policy suggestions. 
+Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide details of your model, explain the limitations of your analysis, and your policy suggestions. 
 
