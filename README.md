@@ -1,20 +1,17 @@
 # Take Home Exercise 
 
-This exercise consists of 3 parts:
-1. Statistics: Use crime datasets to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. Machine Learning:
-3. Natural Language Processing:
+This exercise consists of 2 parts:
+1. Statistics: Use crime dataset to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
+2. Machine Learning: Use review dataset to 
 
 **NOTE**
-1. This exercise is meant to understand the approach and the logic than the actual performance of your models.  If you are not familiar with a topic, please note that in the response and feel free to skip it. 
-2. Please use R or Python or mix of both for this exercise.
+1. This exercise is meant to understand the approach and the logic than the actual performance of your models.  
+2. Please use R or Python or both for this exercise.
 
 
+## 1. Statistics
 
-## 1. Crime Statistics 
-
-You are given a dataset of crime statistics for a selection of counties, contained in the file crime.csv.
-Your task is to examine the data to help the campaign understand the determinants of crime and to generate policy suggestions that are applicable to local government.
+The file crime.csv is a dataset of crime statistics for a selection of counties.  Your task is to examine the data to help a campaign understand the determinants of crime and generate policy suggestions to local government to reduce crime.
 
 |variable | label  |
 |----------|--------|
@@ -37,13 +34,13 @@ Your task is to examine the data to help the campaign understand the determinant
 |wagemfg |weekly wage, manufacturing|
 |wageloc |weekly wage, local government employees|
 
-Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide your model specification, explain the limitations of your analysis, and your policy suggestions. 
+Prepare an analysis investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide the data analysis, model specifications and your policy suggestions. 
 
 
-## 2. Crime Statistics 
+## 2. Machine Learning
 
+The review.csv is a dataset of user reviews for a selection of dentists.  Your task is to identify the main topics that users usually mention in the dental reviews.  It is similar to hotel reviews where users usually mention "Room", "Location", "Price", "Service" about their hotel experience. 
 
-
-## 3. Sentiment Analysis 
+Please provide the  
 
 
