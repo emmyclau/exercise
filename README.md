@@ -29,13 +29,9 @@ Your task is to examine the data to help the campaign understand the determinant
 |urban |=1 if in Standard Metropolitan Statistical Area| 
 |pctmin |proportion that is minority or nonwhite|
 |wagecon |weekly wage, construction|
-|wagetuc |weekly wage, transportation, utilities, communications |
 |wagetrd |weekly wage, wholesle, retail trade|
-|wagefir |weekly wage, finance, insurance and real estate|
 |wageser |weekly wage, service industry|
 |wagemfg |weekly wage, manufacturing|
-|wagefed |weekly wage, federal employees|
-|wagesta |weekly wage, state employees|
 |wageloc |weekly wage, local government employees|
 |mix |ratio of face to face/all other crimes|
 |ymale|proportion of county males between the ages of 15 and 24|
