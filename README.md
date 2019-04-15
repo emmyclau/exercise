@@ -5,9 +5,9 @@ This exercise consists of 3 parts:
 2. Machine Learning:
 3. Natural Language Processing:
 
-##NOTE## 
+**NOTE**
 1. This exercise is meant to understand the approach and the logic than the actual performance of your models.  If you are not familiar with a topic, please note that in the response and feel free to skip it. 
-2. Please use R or Python or mix of R & Python for this exercise.
+2. Please use R or Python or mix of both for this exercise.
 
 
 
