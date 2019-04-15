@@ -40,3 +40,5 @@ Your task is to examine the data to help the campaign understand the determinant
 |mix |ratio of face to face/all other crimes|
 |ymale|proportion of county males between the ages of 15 and 24|
 
+Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide specification of your model, explain the limitations of your analysis, and your policy suggestions. 
+
