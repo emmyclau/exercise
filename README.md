@@ -32,7 +32,6 @@ Your task is to examine the data to help the campaign understand the determinant
 |wageser |weekly wage, service industry|
 |wagemfg |weekly wage, manufacturing|
 |wageloc |weekly wage, local government employees|
-|ymale|proportion of county males between the ages of 15 and 24|
 
 Prepare a report investigating the determinants of crime and addressing the concerns of the political campaign.  Please provide details of your model, explain the limitations of your analysis, and your policy suggestions. 
 
