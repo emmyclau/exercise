@@ -47,7 +47,7 @@ The file ```news.json``` is a dataset of newsgroup postings on a variety of topi
 |news_text|body of the news post|
 
 - Please describe 3 algorithms that you could use to solve this problem and explain the advantages and disadvantages of these algorithms. 
-- You are only asked to create model with one of 3 algorithms.  Please provide the model source code for the one model.
+- You are only asked to create model with one of 3 algorithms.  Please provide the model source code for the model.
 
 
 
