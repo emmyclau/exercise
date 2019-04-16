@@ -2,10 +2,10 @@
 
 This exercise consists of 2 parts:
 1. Statistics: Use crime dataset to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. Machine Learning: 
+2. Machine Learning: Use news dataset to classify the posts 
 
 **NOTE**
-1. This exercise is meant to understand the approach and the logic than the actual performance of your models.  
+1. This exercise is meant to understand the approach and the analysis than the actual performance of your models.  You are suggested not to spend more than a few hours on this exercise. 
 2. Please use R or Python or both for this exercise.
 
 
@@ -14,7 +14,7 @@ This exercise consists of 2 parts:
 The file ```crime.csv``` is a dataset of crime statistics for a selection of counties.  Your task is to examine the data to help a campaign understand the determinants of crime and generate policy suggestions to local government to reduce crime.
 
 |variable | description  |
-|---------|--------|
+|---------|--------------|
 |county|county identifier|
 |year|1988|
 |crime|crimes committed per person|
@@ -42,11 +42,11 @@ Please prepare an analysis investigating the determinants of crime and addressin
 The file ```news.json``` is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
 
 |variable | description  |
-|---------|--------|
+|---------|--------------|
 |news_category|topic of the news post|
 |news_text|body of the news post|
 
-Please provide the model source code and brief comment of the source code.
+Please explain 3 algorithms that you could use to solve this problem but you are only asked to model one of them.  Pleas provide the model source code.  
 
 
 
