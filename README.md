@@ -5,7 +5,7 @@ This exercise consists of 2 parts:
 2. Machine Learning: Use news dataset to build a model to help classify news posts into different topics. 
 
 **NOTE**
-1. This exercise is meant to understand the approach and the analysis than the actual performance of your models.  You are suggested not to spend more than a few hours on this exercise. 
+1. This exercise is meant to understand your approach and your analysis than the actual performance of your models.  You are advised not to spend more than a few hours on this exercise. 
 2. Please use R or Python or both for this exercise.
 
 
