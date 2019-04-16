@@ -2,7 +2,7 @@
 
 This exercise consists of 2 parts:
 1. Statistics: Use crime dataset to understand the determinants of crime and to generate policy suggestions that are applicable to local government.
-2. Machine Learning: Use news dataset to classify the posts 
+2. Machine Learning: Use news dataset to build a model to help classify news posts into different topics. 
 
 **NOTE**
 1. This exercise is meant to understand the approach and the analysis than the actual performance of your models.  You are suggested not to spend more than a few hours on this exercise. 
@@ -46,7 +46,7 @@ The file ```news.json``` is a dataset of newsgroup postings on a variety of topi
 |news_category|topic of the news post|
 |news_text|body of the news post|
 
-Please explain 3 algorithms that you could use to solve this problem but you are only asked to model one of them.  Pleas provide the model source code.  
+Please explain 3 algorithms that you could use to solve this problem but you are only asked to model one of them.  Please provide the model source code and comments as needed.
 
 
 
