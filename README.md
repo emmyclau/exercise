@@ -13,7 +13,7 @@ This exercise consists of 2 parts:
 
 The file ```crime.csv``` is a dataset of crime statistics for a selection of counties.  Your task is to examine the data to help a campaign understand the determinants of crime and generate policy suggestions to local government to reduce crime.
 
-|variable | label  |
+|variable | description  |
 |---------|--------|
 |county|county identifier|
 |year|1988|
@@ -39,7 +39,12 @@ Please prepare an analysis investigating the determinants of crime and addressin
 
 ## 2. Machine Learning
 
-The ```news.csv``` is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
+The file ```news.json``` is a dataset of newsgroup postings on a variety of topics.  Your task is to distinguish the posts between the topics based on the text of the posts.
+
+|variable | description  |
+|---------|--------|
+|news_category|topic of the news post|
+|news_text|body of the news post|
 
 Please provide the model source code and brief comment of the source code.
 
